@@ -22,6 +22,8 @@ class MainActivity : AppCompatActivity() {
         binding.recycleview.setHasFixedSize(true)
         binding.recycleview.adapter=adapter
 
+        val abs : Int
+
 
 
     }
