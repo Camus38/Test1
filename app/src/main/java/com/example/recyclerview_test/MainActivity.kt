@@ -23,6 +23,7 @@ class MainActivity : AppCompatActivity() {
         binding.recycleview.adapter=adapter
 
         val abs : Int
+        val bbs : Int
 
 
 
